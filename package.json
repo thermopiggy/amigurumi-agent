@@ -1,11 +1,12 @@
 {
-  "name": "amigurumi-shop",
+  "name": "amigurumi-agent",
   "version": "1.0.0",
-  "description": "Online shop for handmade amigurumi toys with multilingual support and WhatsApp ordering.",
+  "description": "Simple amigurumi shop site with WhatsApp checkout",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
-  ,
-  "dependencies": {}
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
